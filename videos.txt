@@ -1,0 +1,46 @@
+Series
+Westworld
+8.9
+true
+western sci-fi
+22
+-
+Movie
+A Dog's Purpose
+7.0
+false
+comedy adventure
+10
+-
+LiveStream
+Live from Braga
+8.6
+false
+
+2018
+12
+12
+20
+0
+-
+Series
+Black Mirror
+8.9
+false
+drama sci-fi thriller
+23
+-
+Series
+House of Cards
+8.8
+true
+drama
+73
+-
+Series
+The Chilling Adventures of Sabrina
+7.9
+false
+adventure horror
+20
+-
